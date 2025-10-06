@@ -34,5 +34,6 @@ This project showcases the use of Power Query and DAX Query to analyze employee 
 
 ![image](https://github.com/Murriel11/HR-Dashboard-and-Report/assets/129143386/551a7f56-aa23-4e31-a7a4-d1e44bcf4613)
 
-
-
+## New KPI for HR in Power BI 
+Average SalaryHike by Department
+Repartition Of Male & Female by EducationField
