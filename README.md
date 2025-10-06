@@ -37,3 +37,6 @@ This project showcases the use of Power Query and DAX Query to analyze employee 
 ## New KPI for HR in Power BI 
 Average SalaryHike by Department
 Repartition Of Male & Female by EducationField
+
+
+<img width="643" height="350" alt="Capture d’écran 2025-10-06 170045" src="https://github.com/user-attachments/assets/40d242d6-ecfd-4b17-a503-0bd1e90e9965" />
